@@ -8,3 +8,5 @@ Another commit since GitHub
 Anoher current GitHub
 
 Change since my local branch is called developer_01 
+
+Change since view Editor 
